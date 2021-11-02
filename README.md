@@ -32,7 +32,8 @@ ___
 
 ![Greg's GitHub stats](https://github-readme-stats.vercel.app/api?username=engegreg&count_private=true&theme=dark)
 
-
+___
+### Recent Activity
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#15](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds/issues/15) in [Lambda-School-Labs/human-rights-first-docdb-ds](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds)
