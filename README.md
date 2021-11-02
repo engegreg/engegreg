@@ -27,5 +27,9 @@
 
 
 
+![Greg's GitHub stats](https://github-readme-stats.vercel.app/api?username=engegreg&count_private=true)
+
+
+
 
 [linkedin]: https://www.linkedin.com/in/greg-engelmann/
