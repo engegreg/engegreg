@@ -36,11 +36,11 @@ ___
 ### Recent Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds/pull/20) in [Lambda-School-Labs/human-rights-first-docdb-ds](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds)
-2. 🗣 Commented on [#16](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds/issues/16) in [Lambda-School-Labs/human-rights-first-docdb-ds](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds)
-3. 🗣 Commented on [#15](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds/issues/15) in [Lambda-School-Labs/human-rights-first-docdb-ds](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds)
-4. 🗣 Commented on [#12](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds/issues/12) in [Lambda-School-Labs/human-rights-first-docdb-ds](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds)
-5. 💪 Opened PR [#12](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds/pull/12) in [Lambda-School-Labs/human-rights-first-docdb-ds](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds)
+1. 🗣 Commented on [#17](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds/issues/17) in [Lambda-School-Labs/human-rights-first-docdb-ds](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds)
+2. 🗣 Commented on [#29](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds/issues/29) in [Lambda-School-Labs/human-rights-first-docdb-ds](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds)
+3. 💪 Opened PR [#20](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds/pull/20) in [Lambda-School-Labs/human-rights-first-docdb-ds](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds)
+4. 🗣 Commented on [#16](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds/issues/16) in [Lambda-School-Labs/human-rights-first-docdb-ds](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds)
+5. 🗣 Commented on [#15](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds/issues/15) in [Lambda-School-Labs/human-rights-first-docdb-ds](https://github.com/Lambda-School-Labs/human-rights-first-docdb-ds)
 <!--END_SECTION:activity-->
 
 
